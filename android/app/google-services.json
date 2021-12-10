@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468520573637",
+    "project_id": "the-plug-64813",
+    "storage_bucket": "the-plug-64813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468520573637:android:6bb0e87d2ba0704b762eac",
+        "android_client_info": {
+          "package_name": "com.example.the_plug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468520573637-3jlq6i73agn37l4jovo72dvvsrbrvkih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjSMSlj0eAiXfkw7cpNhZf3ViX8ZWrzpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468520573637-3jlq6i73agn37l4jovo72dvvsrbrvkih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
